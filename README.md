@@ -789,6 +789,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [logbook](http://logbook.readthedocs.io/en/stable/) - Logging replacement for Python.
 * [logging](https://docs.python.org/3/library/logging.html) - (Python standard library) Logging facility for Python.
 * [raven](https://github.com/getsentry/raven-python) - Python client for Sentry, a log/error tracking, crash reporting and aggregation platform for web applications.
+* [logzero](https://github.com/metachris/logzero) - Robust and effective logging for Python 2 and 3. [https://logzero.readthedocs.io](https://logzero.readthedocs.io)
 
 ## Machine Learning
 
